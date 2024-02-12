@@ -17,3 +17,9 @@
 - [Алгоритм Кока-Янгера-Касами](http://neerc.ifmo.ru/wiki/index.php?title=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%9A%D0%BE%D0%BA%D0%B0-%D0%AF%D0%BD%D0%B3%D0%B5%D1%80%D0%B0-%D0%9A%D0%B0%D1%81%D0%B0%D0%BC%D0%B8_%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D1%80%D0%B0_%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8_%D0%B2_%D0%9D%D0%A4%D0%A5);  
 - [Разбор PCFG в NLTK](https://notebook.community/dcavar/python-tutorial-for-ipython/notebooks/PCFG%20Parsing%20with%20NLTK).
 
+Материалы для лекции 03.02.2024:  
+[Синтаксический анализ](https://aclanthology.org/W04-0308.pdf).
+
+Материалы для лекции 10.02.2024:  
+[Link Grammar](https://arxiv.org/pdf/cmp-lg/9508004.pdf)
+[CRF для снятия омонимии](https://sklearn-crfsuite.readthedocs.io/en/latest/tutorial.html#let-s-use-conll-2002-data-to-build-a-ner-system)
